@@ -79,9 +79,5 @@ src/main/java/com/supermarket
 ```
 
 ---
-
-## 👨‍💻 Contributors
--   **Omar Ibrahim** - Lead Developer
-
 ---
 *Developed as part of the OOP Coursework Project.*

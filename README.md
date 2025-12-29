@@ -77,7 +77,5 @@ src/main/java/com/supermarket
 ├── ui/           # Graphical User Interface
 └── util/         # Database Connection Utilities
 ```
-
----
 ---
 *Developed as part of the OOP Coursework Project.*
